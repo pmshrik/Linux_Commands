@@ -1,0 +1,5 @@
+| Command   | Description       | Example             |
+| --------- | ----------------- | ------------------- |
+| `bash`    | Run shell scripts | `bash script.sh`    |
+| `crontab` | Schedule jobs     | `crontab -e`        |
+| `alias`   | Create shortcuts  | `alias ll='ls -la'` |
