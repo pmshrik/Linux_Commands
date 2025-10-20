@@ -1,0 +1,10 @@
+| Command | Description                  | Example                      |
+| ------- | ---------------------------- | ---------------------------- |
+| `grep`  | Search text patterns         | `grep "error" file.log`      |
+| `awk`   | Process text data            | `awk '{print $1}' file.txt`  |
+| `sed`   | Stream editor (replace text) | `sed 's/foo/bar/g' file.txt` |
+| `sort`  | Sort lines                   | `sort file.txt`              |
+| `uniq`  | Remove duplicates            | `uniq file.txt`              |
+| `cut`   | Cut columns                  | `cut -d',' -f1 file.csv`     |
+| `tr`    | Translate characters         | `tr a-z A-Z`                 |
+| `wc`    | Word/line count              | `wc -l file.txt`             |
