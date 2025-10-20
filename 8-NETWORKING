@@ -1,0 +1,11 @@
+| Command    | Description              | Example                          |
+| ---------- | ------------------------ | -------------------------------- |
+| `ping`     | Test connectivity        | `ping google.com`                |
+| `ifconfig` | Show network interfaces  | `ifconfig`                       |
+| `ip addr`  | Display IP addresses     | `ip addr show`                   |
+| `netstat`  | Show network connections | `netstat -tulnp`                 |
+| `ss`       | Socket statistics        | `ss -tuln`                       |
+| `curl`     | Fetch URLs               | `curl https://example.com`       |
+| `wget`     | Download files           | `wget https://file.com/app.deb`  |
+| `scp`      | Secure copy              | `scp file.txt user@server:/path` |
+| `ssh`      | Remote login             | `ssh user@192.168.1.10`          |
