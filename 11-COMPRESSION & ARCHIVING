@@ -1,0 +1,7 @@
+| Command  | Description                | Example                          |
+| -------- | -------------------------- | -------------------------------- |
+| `tar`    | Create/extract tar archive | `tar -cvf backup.tar /home/user` |
+| `gzip`   | Compress files             | `gzip file.txt`                  |
+| `gunzip` | Decompress                 | `gunzip file.txt.gz`             |
+| `zip`    | Zip files                  | `zip files.zip *.txt`            |
+| `unzip`  | Unzip files                | `unzip files.zip`                |
