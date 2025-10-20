@@ -1,0 +1,8 @@
+| Command       | Description            | Example                |
+| ------------- | ---------------------- | ---------------------- |
+| `cat`         | Display file content   | `cat /etc/hosts`       |
+| `less`        | Scroll through content | `less /var/log/syslog` |
+| `head`        | Show first 10 lines    | `head -n 20 file.log`  |
+| `tail`        | Show last 10 lines     | `tail -f file.log`     |
+| `nano`        | Simple text editor     | `nano notes.txt`       |
+| `vi` or `vim` | Advanced text editor   | `vi config.txt`        |
