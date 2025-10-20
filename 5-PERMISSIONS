@@ -1,0 +1,6 @@
+| Command | Description             | Example                    |
+| ------- | ----------------------- | -------------------------- |
+| `chmod` | Change permissions      | `chmod 755 script.sh`      |
+| `chown` | Change ownership        | `chown user:user file.txt` |
+| `umask` | Default permission mask | `umask 022`                |
+| `ls -l` | View file permissions   | `ls -l file.txt`           |
