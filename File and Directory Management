@@ -1,0 +1,11 @@
+| Command  | Description                        | Example                 |
+| -------- | ---------------------------------- | ----------------------- |
+| `touch`  | Create an empty file               | `touch test.txt`        |
+| `cat`    | View file content                  | `cat file.txt`          |
+| `mkdir`  | Create directory                   | `mkdir demo`            |
+| `rmdir`  | Remove empty directory             | `rmdir demo`            |
+| `rm`     | Remove files or directories        | `rm -rf folder`         |
+| `cp`     | Copy files                         | `cp a.txt b.txt`        |
+| `mv`     | Move or rename files               | `mv old.txt new.txt`    |
+| `find`   | Search files                       | `find / -name test.txt` |
+| `locate` | Quickly find files (uses database) | `locate nginx.conf`     |
