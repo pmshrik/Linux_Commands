@@ -1,0 +1,10 @@
+| Command | Description                   | Example         |
+| ------- | ----------------------------- | --------------- |
+| `ps`    | Show running processes        | `ps aux`        |
+| `top`   | Interactive process viewer    | `top`           |
+| `htop`  | Better visual process viewer  | `htop`          |
+| `kill`  | Terminate process             | `kill 1234`     |
+| `pkill` | Kill by name                  | `pkill firefox` |
+| `jobs`  | Show background jobs          | `jobs`          |
+| `bg`    | Run stopped job in background | `bg %1`         |
+| `fg`    | Bring job to foreground       | `fg %1`         |
