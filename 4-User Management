@@ -1,0 +1,9 @@
+| Command   | Description              | Example            |
+| --------- | ------------------------ | ------------------ |
+| `who`     | Show logged-in users     | `who`              |
+| `id`      | Display user ID info     | `id shrikanth`     |
+| `adduser` | Add new user             | `sudo adduser dev` |
+| `deluser` | Delete a user            | `sudo deluser dev` |
+| `passwd`  | Change password          | `passwd shrikanth` |
+| `su`      | Switch user              | `su root`          |
+| `sudo`    | Run command as superuser | `sudo apt update`  |
