@@ -1,0 +1,8 @@
+| Command   | Description        | Example        |
+| --------- | ------------------ | -------------- |
+| `df -h`   | Disk space usage   | `df -h`        |
+| `du -sh`  | Size of directory  | `du -sh /home` |
+| `free -h` | RAM usage          | `free -h`      |
+| `uptime`  | System uptime      | `uptime`       |
+| `vmstat`  | System performance | `vmstat 2`     |
+| `iostat`  | CPU/disk stats     | `iostat`       |
