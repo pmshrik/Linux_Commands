@@ -1,0 +1,7 @@
+| Command          | Description     | Example          |       |
+| ---------------- | --------------- | ---------------- | ----- |
+| `uname -a`       | Kernel info     | `uname -a`       |       |
+| `hostname`       | System hostname | `hostname`       |       |
+| `lsb_release -a` | OS details      | `lsb_release -a` |       |
+| `uptime`         | System uptime   | `uptime`         |       |
+| `dmesg`          | Kernel messages | `dmesg           | tail` |
