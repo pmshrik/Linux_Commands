@@ -1,0 +1,7 @@
+| Command       | Description             | Example                  |
+| ------------- | ----------------------- | ------------------------ |
+| `apt update`  | Refresh package list    | `sudo apt update`        |
+| `apt upgrade` | Upgrade all packages    | `sudo apt upgrade`       |
+| `apt install` | Install package         | `sudo apt install nginx` |
+| `apt remove`  | Remove package          | `sudo apt remove nginx`  |
+| `dpkg -l`     | List installed packages | `dpkg -l`                |
