@@ -1,0 +1,10 @@
+| Command  | Description                     | Example                 |
+| -------- | ------------------------------- | ----------------------- |
+| `pwd`    | Print current working directory | `pwd` → `/home/user`    |
+| `ls`     | List files and directories      | `ls -l` → detailed list |
+| `cd`     | Change directory                | `cd /etc`               |
+| `clear`  | Clear terminal screen           | `clear`                 |
+| `echo`   | Print text or variable          | `echo "Hello Linux"`    |
+| `whoami` | Display current username        | `whoami` → `shrikanth`  |
+| `date`   | Display current date & time     | `date`                  |
+| `cal`    | Display calendar                | `cal 2025`              |
